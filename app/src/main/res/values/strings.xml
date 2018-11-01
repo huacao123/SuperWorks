@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SuperWorks</string>
+
+
+    <!-- 主页 -->
+    <string name="home_exit_hint">再按一次退出</string>
+    <string name="home_nav_index">首页</string>
+    <string name="home_nav_found">发现</string>
+    <string name="home_nav_message">消息</string>
+    <string name="home_nav_me">我的</string>
+
+    <!-- minePage-->
+    <string name="minePage_top_text">个人中心</string>
+    <string name="minePage_user_name">姓名</string>
+    <string name="minePage_user_setting">未设置</string>
+    <string name="minePage_userInfo_barText">账号信息</string>
+    <string name="minePage_userSetting_barText">设置</string>
+    <string name="minePage_userExit_barText">退出当前账号</string>
+</resources>
